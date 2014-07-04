@@ -1,6 +1,6 @@
 {
   "name": "promise-extensions",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "extensions to make working with promises easier",
   "main": "lib/index.js",
   "scripts": {
